@@ -52,4 +52,4 @@ function handleInputErrors({ fullName, username, password, confirmPassword, gend
 	}
 
 	return true;
-}
+};
